@@ -33,6 +33,7 @@ PG_CONFIG = {
     "host": os.environ.get("PG_HOST", "localhost"),
     "port": int(os.environ.get("PG_PORT", "5432")),
     "user": os.environ.get("PG_USER", "postgres"),
-    "password": os.environ.get("PG_PASSWORD", ""),
+     "password": os.environ.get("PG_PASSWORD", "6036"),
 }
 PG_DATABASE = os.environ.get("PG_DATABASE", "pncp_controladoria")
+
