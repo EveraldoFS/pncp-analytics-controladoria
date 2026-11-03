@@ -48,7 +48,7 @@ O projeto foi dividido em 7 Sprints (0 a 6):
 ![Sprints do projeto](docs/img/sprints.png)
 
 ## Link do Vídeo
-[Clique aqui para assistir à apresentação do projeto](EM_BREVE)
+[Clique aqui para assistir à apresentação do projeto](https://drive.google.com/file/d/1gJAeTlCvkW0BrzrDkLM3Eevgd9Y1f821/view?usp=sharing)
 
 ##  Melhorias Futuras
 - Automatizar a ingestão dos dados via API do PNCP.
