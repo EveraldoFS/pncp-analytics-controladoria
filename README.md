@@ -45,10 +45,10 @@ O projeto foi dividido em 7 Sprints (0 a 6):
 - **Sprint 5:** Consultas SQL (02_perguntas.sql).
 - **Sprint 6:** Dashboard Power BI (15 medidas DAX e 6 páginas).
 
-*(Se você tiver um print do seu Trello/Jira/Planilha, salve em `docs/img/sprints.png` e adicione aqui: `![Sprints do projeto](docs/img/sprints.png)`)*
+![Sprints do projeto](docs/img/sprints.png)
 
-##  Link do Vídeo
-[Clique aqui para assistir à apresentação do projeto](COLE_O_LINK_DO_VIDEO_AQUI)
+## Link do Vídeo
+[Clique aqui para assistir à apresentação do projeto](EM_BREVE)
 
 ##  Melhorias Futuras
 - Automatizar a ingestão dos dados via API do PNCP.
